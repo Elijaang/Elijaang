@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Eli jang. Hanya seorang Mahasiswa Universitas Gadjah Mada<br><br>Github saya berisi tugas - tugas Python yang saya kerjakan.<br><br>Welcome !
 
 
@@ -8,7 +8,6 @@ Eli jang. Hanya seorang Mahasiswa Universitas Gadjah Mada<br><br>Github saya ber
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Elijaang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Elijaang&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elijaang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
