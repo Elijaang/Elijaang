@@ -1,5 +1,5 @@
 # About Me:
-Eli jang. Hanya seorang Mahasiswa Universitas Gadjah Mada<br><br>Github saya berisi tugas - tugas Python yang saya kerjakan.<br><br>Welcome !
+Eli jang. Hanya seorang Mahasiswa Gadjah Mada<br><br>Github saya berisi tugas - tugas Python yang saya kerjakan.<br><br>Welcome !
 
 
 ## 🌐 Socials:
